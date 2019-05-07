@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "movie_genre_type": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

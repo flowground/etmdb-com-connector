@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "filmography_description": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

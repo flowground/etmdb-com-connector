@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "company_name": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

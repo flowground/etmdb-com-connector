@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "movie_title": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

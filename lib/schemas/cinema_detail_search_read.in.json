@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "cinema_name": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

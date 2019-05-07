@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "genre_description": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
